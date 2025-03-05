@@ -2,18 +2,18 @@ import React, { useState } from 'react';
 import { Heart, Stars, X } from 'lucide-react';
 
 const images = [
-  "/1693323848215.jpg",
-  "/IMG_2393.jpg", 
-  "/IMG_2397.jpg",
-  "/IMG_2401 (1).jpg",
-  "/IMG_2407.jpg",
-  "/IMG_2411.jpg",
-  "/IMG_2426.jpg",
-  "/IMG_2434.jpg",
-  "/IMG_2449.jpg",
-  "/IMG_2452.jpg",
-  "/IMG_2455.jpg",
-  "/SAVE_20230615_231535.jpg"
+  "./1693323848215.jpg",
+  "./IMG_2393.jpg", 
+  "./IMG_2397.jpg",
+  "./IMG_2401 (1).jpg",
+  "./IMG_2407.jpg",
+  "./IMG_2411.jpg",
+  "./IMG_2426.jpg",
+  "./IMG_2434.jpg",
+  "./IMG_2449.jpg",
+  "./IMG_2452.jpg",
+  "./IMG_2455.jpg",
+  "./SAVE_20230615_231535.jpg"
 ];
 
 const message = `Dear Sindhuja,
